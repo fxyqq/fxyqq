@@ -1,7 +1,7 @@
 ### Hi
 
 <p align="center">
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=unsmxrt&style=flat&labelColor=black&logo=github&label=Profile+Views&color=0d8ce0"/>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Fxy&style=flat&labelColor=black&logo=github&label=Profile+Views&color=0d8ce0"/>
 </p>
 
 ### stealing chocopie's and port readme since 1969 :sunglasses:
@@ -17,5 +17,5 @@
 - tag: Fxy#0999
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unsmxrt&show_icons=true&theme=algolia&hide_title=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fxy&show_icons=true&theme=algolia&hide_title=true&count_private=true" />
 </p>

@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi
 
-<!--
-**fxyqq/fxyqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=unsmxrt&style=flat&labelColor=black&logo=github&label=Profile+Views&color=0d8ce0"/>
+</p>
 
-Here are some ideas to get you started:
+### stealing chocopie's and port readme since 1969 :sunglasses:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-1/846398613189033994.png" />
+</p>
+
+### professional ctrl + c and ctrl + v'er
+### learning java
+
+### Links:
+- tag: Fxy#0999
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unsmxrt&show_icons=true&theme=algolia&hide_title=true&count_private=true" />
+</p>

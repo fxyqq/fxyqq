@@ -7,7 +7,7 @@
 ### stealing chocopie's and port readme since 1969 :sunglasses:
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/846398613189033994.png" />
+  <img src="https://discord.c99.nl/widget/theme-1/363983637391081472.png" />
 </p>
 
 ### professional ctrl + c and ctrl + v'er
